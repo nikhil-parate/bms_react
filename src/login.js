@@ -82,7 +82,8 @@ class demo extends Component {
         }).then((response)=>{
         if(!response.data.error) {
           this.setState({success: "true"});
-          console.log(response.data.error, this.state.success)
+          console.log(response.data.error, this.state.success);
+           toast.success("login successeful, wait for a sec..."); 
            this.routeChange() ;
         }
         else{
