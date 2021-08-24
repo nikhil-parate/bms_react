@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/nikhil-parate.github.io/Book_My_Show/static/css/main.4fafadd3.chunk.css",
+    "main.js": "/nikhil-parate.github.io/Book_My_Show/static/js/main.50c75726.chunk.js",
+    "main.js.map": "/nikhil-parate.github.io/Book_My_Show/static/js/main.50c75726.chunk.js.map",
+    "runtime-main.js": "/nikhil-parate.github.io/Book_My_Show/static/js/runtime-main.37d5a970.js",
+    "runtime-main.js.map": "/nikhil-parate.github.io/Book_My_Show/static/js/runtime-main.37d5a970.js.map",
+    "static/js/2.44556a06.chunk.js": "/nikhil-parate.github.io/Book_My_Show/static/js/2.44556a06.chunk.js",
+    "static/js/2.44556a06.chunk.js.map": "/nikhil-parate.github.io/Book_My_Show/static/js/2.44556a06.chunk.js.map",
+    "index.html": "/nikhil-parate.github.io/Book_My_Show/index.html",
+    "static/css/main.4fafadd3.chunk.css.map": "/nikhil-parate.github.io/Book_My_Show/static/css/main.4fafadd3.chunk.css.map",
+    "static/js/2.44556a06.chunk.js.LICENSE.txt": "/nikhil-parate.github.io/Book_My_Show/static/js/2.44556a06.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37d5a970.js",
+    "static/js/2.44556a06.chunk.js",
+    "static/css/main.4fafadd3.chunk.css",
+    "static/js/main.50c75726.chunk.js"
+  ]
+}
